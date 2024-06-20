@@ -17,7 +17,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL:  (http://127.0.0.1:5500/index.html)
+- Solution URL:  (https://github.com/the-tishbite/qr-code-task.git)
 - Live Site URL: (https://qr-code-task-two.vercel.app/)
 
 ### Built with
